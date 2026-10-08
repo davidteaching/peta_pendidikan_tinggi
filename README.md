@@ -16,8 +16,8 @@ Repositori ini adalah **rumah digital** untuk buku *"Peta Jalan Seleksi Pendidik
 
 Repositori ini memuat:
 
-- 📘 **Materi buku dan soal-soal simulasi dan tryout** dalam format pdf.
-- 📝 **Soal latihan tambahan** beserta pembahasannya.
+- 📘 **Materi** dalam format pdf.
+- 📝 **Soal latihan tambahan, simulasi, dan tryout** beserta pembahasannya.
 - 📅 **Pembaruan jadwal dan kebijakan** seleksi.
 - 🔧 **Template belajar** (jadwal, *error log*, evaluasi tryout).
 - 💬 **Ruang diskusi** untuk tanya jawab dan berbagi pengalaman.
